@@ -135,11 +135,11 @@ Password: 111
 
 ```
 project/
-├── register.html          # Homepage - User registration
-├── login.html            # User login page
-├── admin.php             # Admin dashboard
-├── user.php              # User dashboard
-├── payment.php           # Payment processing
+├── register.html        # Homepage - User registration
+├── login.html           # User login page
+├── admin.php            # Admin dashboard
+├── user.php             # User dashboard
+├── payment.php          # Payment processing
 ├── slot1.php            # Slot 1 booking page
 ├── slot2.php            # Slot 2 booking page
 ├── unreserve.php        # Unreservation handler
